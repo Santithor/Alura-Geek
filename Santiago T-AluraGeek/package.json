@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alemtur/AluraGeek.git"
+    "url": "git+https://github.com/Santithor/Alura-Geek"
   },
   "keywords": [
     "Alura"
   ],
-  "author": "Alejandro Turtola",
+  "author": "Santiago Torrente",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/autor/proyecto/issues"
