@@ -1,9 +1,9 @@
 {
   "perfil": [
     {
-      "nombre": "admin",
-      "email": "admin@alura.com",
-      "password": "admin",
+      "nombre": "adminserver",
+      "email": "adminserver@alura.com",
+      "password": "adminserver",
       "id": 1
     }
   ],
